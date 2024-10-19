@@ -1,0 +1,6 @@
+# Configuration file for model training parameters
+model:
+  name: "your_model_name"  # Update with actual model name
+  learning_rate: 0.001
+  batch_size: 32
+  num_epochs: 10
